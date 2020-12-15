@@ -1,0 +1,3 @@
+This EEG data analysis pipeline was made to process infant EEG data of a study on variability in infant-directed actions. The analysis was geared towards spectral analysis of the theta frequency range. These scripts were written by Marlene Meyer and Johanna E. van Schaik.
+
+One overarching script (*_MainScript_actiongoals.m) calls all other scripts. Individual variables such as directory paths are defined in *_Info.m.
